@@ -37,7 +37,7 @@ __University of Nottingham__
 `March 2019 - November 2019`
 __Synthetic Biologist & Head of Parts__, iGEM, University of Nottingham
 
-<p>An international, open-source genetic engineering competition. I headed the lab safety and Parts Regisrty (functional DNA sequence repository) aspects of the competition as well as my typical wet-lab duties. <a href="https://2019.igem.org/Team:Nottingham/Description">More info on our wiki</a>.</p>
+<p>An international, open-source genetic engineering competition. I headed the lab safety and Parts Registry (functional DNA sequence repository) aspects of the competition as well as my typical wet-lab duties. <a href="https://2019.igem.org/Team:Nottingham/Description">More info on our wiki</a>.</p>
 <br />
 
 <ul>
