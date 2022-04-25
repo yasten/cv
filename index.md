@@ -20,6 +20,8 @@ MSc Data Science Student
 
 `2022-2023`
 __Goldsmtiths, University of London.__
+MSc Data Science 
+
 
 `2018 - 2020`
 __University of Nottingham__
