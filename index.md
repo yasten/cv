@@ -14,10 +14,6 @@ MSc Data Science Student
 </div>
 
 
-## Currently
-
-MSc Data Science Student
-
 
 ## Education
 `2022-2023`
@@ -29,7 +25,7 @@ MSc Data Science
 `2018 - 2020`
 __University of Nottingham__
 
-Undergraduate Certificate Biochemistry & Biological Chemistry
+<p>Undergraduate Certificate Biochemistry & Biological Chemistry</p>
 <br />
 
 <ul>
