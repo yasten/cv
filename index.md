@@ -37,7 +37,7 @@ Biochemistry and Biological Chemistry.
 ## Awards
 
 `2019`
-__Gold medal, __*iGEM competition*__, Boston, MA.
+__Gold medal, *iGEM competition*__, Boston, MA.
 
 Nottingham 2019 iGEM Team. Our project focussed on creating a novel food-safety system for the detection of C. *botulinum* in food processing plants.
 Our research produced useful IP for the production of biofuels and biopolymers using anaerobic bacteria.
