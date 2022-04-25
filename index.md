@@ -40,8 +40,9 @@ __Synthetic Biologist & Head of Parts__, iGEM, University of Nottingham
 <br />
 
 <p>- Presented to a panel of iGEM judges and over 300 audience members.<br />
-- Analysis of experimental data in Microsoft Excel and Graphpad Prism. Visualised data for academic presentation using Graphpad Prism<br />
-- Managed team members for collection and reporting of data needed for the Parts Registry.</p>
+- Analysis of experimental data in Microsoft Excel and Graphpad Prism. Visualised data for academic presentation using Graphpad Prism.<br />
+- Managed team members for collection and reporting of data needed for the Parts Registry.<br />
+- Achieved gold award and 2 special prize nominations.</p>
 
 ## Awards
 
@@ -55,13 +56,13 @@ Our research produced useful IP for the production of biofuels and biopolymers u
 
 `2019`
 __Sensing Success at iGEM__, The Biologist Magazine
-<a href="https://www.rsb.org.uk/biologist-features/sensing-success-at-igem">Read the article</a>
+<a href="https://www.rsb.org.uk/biologist-features/sensing-success-at-igem">Read the article.</a>
 
 
 
 `2019`
 __University of Nottingham Presents Notox at Synthetic Biology’s Largest Innovation Event__, Don Whitley Scientific
-<a href="https://www.dwscientific.com/blog/university-nottingham-presents-notox-synthetic-biologys-largest-innovation-event">Read the article</a>
+<a href="https://www.dwscientific.com/blog/university-nottingham-presents-notox-synthetic-biologys-largest-innovation-event">Read the article.</a>
 
 
 
