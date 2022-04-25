@@ -32,13 +32,6 @@ __University of Nottingham__
  - Mauritian society secretary</p>
 
 
-
-<ul>
-<li> - Nottingham 2019 iGEM team</li>
-<li> - Peer mentor</li>
-<li> - Mauritian society secretary</li>
-</ul> 
-
 ## Experience
 `Mar 2019 - Nov 2019`
 __Synthetic Biologist & Head of Parts__, iGEM, University of Nottingham
@@ -46,11 +39,9 @@ __Synthetic Biologist & Head of Parts__, iGEM, University of Nottingham
 <p>An international, open-source genetic engineering competition. I headed the lab safety and Parts Registry (functional DNA sequence repository) aspects of the competition as well as my typical wet-lab duties. <a href="https://2019.igem.org/Team:Nottingham/Description">More info on our wiki</a>.</p>
 <br />
 
-<ul>
-<li> - Presented to a panel of iGEM judges and over 300 audience members.</li>
-<li> - Analysis of experimental data in Microsoft Excel and Graphpad Prism. Visualised data for academic presentation using Graphpad Prism</li>
-<li> - Managed team members for collection and reporting of data needed for the Parts Registry.</li>
-</ul>
+<p>- Presented to a panel of iGEM judges and over 300 audience members.<br />
+- Analysis of experimental data in Microsoft Excel and Graphpad Prism. Visualised data for academic presentation using Graphpad Prism<br />
+- Managed team members for collection and reporting of data needed for the Parts Registry.</p>
 
 ## Awards
 
