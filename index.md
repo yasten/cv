@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Yaseen Tengur's CV
+title: Yaseen Tengur
 ---
 # Yaseen Tengur
 
