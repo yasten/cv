@@ -43,9 +43,11 @@ __Synthetic Biologist & Head of Parts__, iGEM, University of Nottingham
 
 An international, open-source genetic engineering competition. I headed the lab safety and Parts Regisrty (functional DNA sequence repository) aspects of the competition as well as my typical wet-lab duties. <a href="https://2019.igem.org/Team:Nottingham/Description">More info on our wiki</a>.
 
-* - Presented to a panel of iGEM judges and over 300 audience members. My preparation and delivery helped our team achieve a Gold Award and 2 Special Prize nominations.
-+ - Analysis of experimental data in Microsoft Excel and Graphpad Prism. Visualised data for academic presentation using Graphpad Prism
-+ - managed team members to collect and report the data needed for the Parts Registry.
+<ul>
+<li> - Presented to a panel of iGEM judges and over 300 audience members. My preparation and delivery helped our team achieve a Gold Award and 2 Special Prize nominations.</li>
+<li> - Analysis of experimental data in Microsoft Excel and Graphpad Prism. Visualised data for academic presentation using Graphpad Prism</li>
+<li> - managed team members to collect and report the data needed for the Parts Registry.</li>
+</ul>
 
 
 ## Awards
