@@ -55,13 +55,13 @@ Our research produced useful IP for the production of biofuels and biopolymers u
 ## Publications
 
 `2019`
-__Sensing Success at iGEM__, The Biologist Magazine
+__Sensing Success at iGEM__, The Biologist Magazine | 
 <a href="https://www.rsb.org.uk/biologist-features/sensing-success-at-igem">Read the article.</a>
 
 
 
 `2019`
-__University of Nottingham Presents Notox at Synthetic Biology’s Largest Innovation Event__, Don Whitley Scientific
+__University of Nottingham Presents Notox at Synthetic Biology’s Largest Innovation Event__, Don Whitley Scientific | 
 <a href="https://www.dwscientific.com/blog/university-nottingham-presents-notox-synthetic-biologys-largest-innovation-event">Read the article.</a>
 
 
