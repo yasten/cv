@@ -32,9 +32,9 @@ __University of Nottingham__
 Undergraduate Certificate Biochemistry & Biologucal Chemistry
 
 <ul>
-<li>Nottingham 2019 iGEM team</li>
-<li>Peer mentor</li>
-<li>Mauritian society secretary</li>
+<li> - Nottingham 2019 iGEM team</li>
+<li> - Peer mentor</li>
+<li> - Mauritian society secretary</li>
 </ul>
 
 ## Awards
