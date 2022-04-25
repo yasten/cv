@@ -29,11 +29,11 @@ MSc Data Science
 `2018 - 2020`
 __University of Nottingham__
 
-Biochemistry and Biological Chemistry.
+Undergraduate Certificate Biochemistry & Biologucal Chemistry
 
-  * Nottigham 2019 iGEM team
-  * Peer mentor
-  * Mauritian society secretary
+*  Nottigham 2019 iGEM team
+*  Peer mentor
+*  Mauritian society secretary
 
 ## Awards
 
