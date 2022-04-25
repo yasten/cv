@@ -26,7 +26,6 @@ MSc Data Science
 __University of Nottingham__
 
 <p>Undergraduate Certificate Biochemistry & Biological Chemistry</p>
-<br />
 
 <ul>
 <li> - Nottingham 2019 iGEM team</li>
