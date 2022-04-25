@@ -8,7 +8,9 @@ MSc Data Science Student
 
 <div id="webaddress">
 <a href="yaseen.tengur@gmail.com">yaseen.tengur@gmail.com</a>
-| <a href="https://www.linkedin.com/in/yaseen-tengur/">My LinkedIn page</a>
+| <a href="https://github.com/yasten">GitHub</a>
+  | <a href="https://www.linkedin.com/in/yaseen-tengur/">LinkedIn</a>
+
 </div>
 
 
@@ -47,8 +49,8 @@ Our research produced useful IP for the production of biofuels and biopolymers u
 __University of Nottingham iGEM Team__, Nottingham
 
 An international genetic engineering competition
-  * Data collection
-  * Presentation ....
+  ** Data collection
+  ** Presentation ....
 
 
 
