@@ -46,9 +46,9 @@ __Synthetic Biologist & Head of Parts__, iGEM, University of Nottingham
 <br />
 
 <ul>
-<li> - Presented to a panel of iGEM judges and over 300 audience members. My preparation and delivery helped our team achieve a Gold Award and 2 Special Prize nominations.</li>
+<li> - Presented to a panel of iGEM judges and over 300 audience members.</li>
 <li> - Analysis of experimental data in Microsoft Excel and Graphpad Prism. Visualised data for academic presentation using Graphpad Prism</li>
-<li> - managed team members to collect and report the data needed for the Parts Registry.</li>
+<li> - Managed team members for collection and reporting of data needed for the Parts Registry.</li>
 </ul>
 
 ## Awards
