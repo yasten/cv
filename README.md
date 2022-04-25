@@ -8,6 +8,8 @@ For more details, see the [project page](http://elipapa.github.io/markdown-cv), 
 ***
 ## [Yaseen Tengur's CV](https://yasten.github.io/markdown-cv/)
 
+https://yasten.github.io/markdown-cv/
+
 
 ### Author
 
