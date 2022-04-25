@@ -51,8 +51,9 @@ Our research produced useful IP for the production of biofuels and biopolymers u
 __University of Nottingham iGEM Team__, Nottingham
 
 An international genetic engineering competition
-  ** Data collection
-  ** Presentation ....
+* Data collection
++ Presentation ....
+- test
 
 
 
