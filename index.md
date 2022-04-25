@@ -29,7 +29,7 @@ MSc Data Science
 `2018 - 2020`
 __University of Nottingham__
 
-Undergraduate Certificate Biochemistry & Biologucal Chemistry
+Undergraduate Certificate Biochemistry & Biological Chemistry
 <br />
 
 <ul>
