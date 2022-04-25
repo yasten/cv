@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Yaseen Tengur's CV
 ---
 # Yaseen Tengur
 
