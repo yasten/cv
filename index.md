@@ -3,6 +3,7 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Yaseen Tengur
+
 MSc Data Science Student
 
 <div id="webaddress">
@@ -19,13 +20,18 @@ MSc Data Science Student
 ## Education
 
 `2022-2023`
-__Goldsmtiths, University of London.__
+
+__Goldsmtiths, University of London__
+
 MSc Data Science 
 
 
 `2018 - 2020`
+
 __University of Nottingham__
+
 Biochemistry and Biological Chemistry.
+
   * Nottigham 2019 iGEM team
   * Peer mentor
   * Mauritian society secretary
@@ -33,7 +39,9 @@ Biochemistry and Biological Chemistry.
 ## Awards
 
 `2019`
+
 Gold medal, *iGEM competition*, Boston, MA.
+
 Nottingham 2019 iGEM Team. Our project focussed on creating a novel food-safety system for the detection of C. *botulinum* in food processing plants.
 Our research produced useful IP for the production of biofuels and biopolymers using anaerobic bacteria.
 
@@ -41,7 +49,9 @@ Our research produced useful IP for the production of biofuels and biopolymers u
 ## Experience
 
 `March 2019 - November 2019`
+
 __University of Nottingham iGEM team__, Nottingham
+
 An international genetic engineering competition
   * Data collection
   * Presentation ....
