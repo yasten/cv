@@ -37,6 +37,17 @@ Undergraduate Certificate Biochemistry & Biologucal Chemistry
 <li> - Mauritian society secretary</li>
 </ul>
 
+## Experience
+`March 2019 - November 2019`
+__Synthetic Biologist & Head of Parts__, iGEM, University of Nottingham
+
+An international, open-source genetic engineering competition. I headed the lab safety and Parts Regisrty (functional DNA sequence repository) aspects of the competition as well as my typical wet-lab duties.<a href="https://2019.igem.org/Team:Nottingham/Description">More info on our wiki</a>
+
+* - Presented to a panel of iGEM judges and over 300 audience members. My preparation and delivery helped our team achieve a Gold Award and 2 Special Prize nominations.
++ - Analysis of experimental data in Microsoft Excel and Graphpad Prism. Visualised data for academic presentation using Graphpad Prism
++ - managed team members to collect and report the data needed for the Parts Registry.
+
+
 ## Awards
 
 `2019`
@@ -45,15 +56,15 @@ __*Gold medal*, iGEM Competition__, Boston, MA.
 Nottingham 2019 iGEM Team. Our project focussed on creating a novel food-safety system for the detection of C. *botulinum* in food processing plants.
 Our research produced useful IP for the production of biofuels and biopolymers using anaerobic bacteria.
 
+## Publications
 
-## Experience
-`March 2019 - November 2019`
-__University of Nottingham iGEM Team__, Nottingham
+`2019`
+__Sensing Success at iGEM__, The Biologist Magazine
+<a href="https://www.rsb.org.uk/biologist-features/sensing-success-at-igem"Read the article</a>
 
-An international genetic engineering competition
-* Data collection
-+ Presentation ....
-- test
+`2019`
+__University of Nottingham Presents Notox at Synthetic Biology’s Largest Innovation Event__, Don Whitley Scientific
+<a href="https://www.dwscientific.com/blog/university-nottingham-presents-notox-synthetic-biologys-largest-innovation-event"Read the article</a>
 
 
 
