@@ -14,7 +14,8 @@ For more details, see the [project page](http://elipapa.github.io/markdown-cv), 
 ### Author
 
 Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-Jekyll theme by [Dave Whipp](https://github.com/davewhipp/markdown-cv)
+
+Jekyll theme by [Dave Whipp](https://github.com/davewhipp).
 
 ### License
 
