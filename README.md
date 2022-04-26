@@ -1,7 +1,7 @@
 
-# [Yaseen Tengur's CV](https://yasten.github.io/markdown-cv/)
+# [Yaseen Tengur's CV](https://yasten.github.io/cv/)
 
-https://yasten.github.io/markdown-cv/
+https://yasten.github.io/cv/
 ***
 
 ## markdown-cv
