@@ -7,7 +7,7 @@ title: Yaseen Tengur
 MSc Data Science Student
 
 <div id="webaddress">
-<a href="yaseen.tengur@gmail.com"><i class="fab fa-mail"></i> yaseen.tengur@gmail.com</a>
+<a href="yaseen.tengur@gmail.com"><i class="fab fa-envelope"></i> yaseen.tengur@gmail.com</a>
 | <a href="https://github.com/yasten"><i class="fab fa-github"></i> GitHub</a>
   | <a href="https://www.linkedin.com/in/yaseen-tengur/"><i class="fab fa-linkedin"></i> LinkedIn</a>
 
