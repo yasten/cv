@@ -8,7 +8,7 @@ MSc Data Science Student
 
 <div id="webaddress">
 <a href="yaseen.tengur@gmail.com">yaseen.tengur@gmail.com</a>
-| <a href="https://github.com/yasten">GitHub</a>
+| <a href="https://github.com/yasten"><i class="fas fa-home"></i> GitHub</a>
   | <a href="https://www.linkedin.com/in/yaseen-tengur/">LinkedIn</a>
 
 </div>
