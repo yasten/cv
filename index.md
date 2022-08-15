@@ -4,7 +4,7 @@ title: Yaseen Tengur
 ---
 # Yaseen Tengur
 
-MSc Data Science Student
+Data Science Student
 
 <div id="webaddress">
 <i class="fa fa-envelope"></i> yaseen.tengur@gmail.com
@@ -16,10 +16,10 @@ MSc Data Science Student
 
 
 ## Education
-`2022-2023`
+`2022`
 __Goldsmtiths, University of London__
 
-MSc Data Science 
+PGCert Data Science 
 
 
 `2018 - 2020`
